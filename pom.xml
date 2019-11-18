@@ -12,7 +12,7 @@
 	<artifactId>SpringBootCronScheduler</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBootCronScheduler</name>
-	<description>Demo project for Spring Boot</description>
+	<description>SPRINGBOOT CRON SCHEDULER </description>
 
 	<properties>
 		<java.version>1.8</java.version>
